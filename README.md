@@ -10,7 +10,7 @@ This repository contains the implementation of a **Graph Laplacian Attention-Bas
 
 ---
 
-<img src="./modelglat.jpg" width="200px" align="right" />
+<img src="modelglat.jpg" width="300px" align="right" />
 
 ---
 
