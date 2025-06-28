@@ -10,15 +10,15 @@ This repository contains the implementation of a **Graph Laplacian Attention-Bas
 
 ---
 
-## 📂 **Project Structure**
+### 📂 **Project Structure**
 
 ---
 
-<img src="./model-glat.png" width="500px" align="right" />
+<img src="./model-glat.png" width="1000px" align="right" />
 
 ---
 
-## 📊 **Datasets**
+### 📊 **Datasets**
 We evaluated the model on **five public** and **one private (UConn Health) dataset**:
 
 | Dataset       | WSIs Count | Gleason Labels | Notes |
