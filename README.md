@@ -10,7 +10,7 @@ This repository contains the implementation of a **Graph Laplacian Attention-Bas
 
 ---
 
-<img src="./modelglat.jpg" width="400px" align="right" />
+<img src="./modelglat.jpg" width="200px" align="right" />
 
 ---
 
@@ -19,7 +19,7 @@ This repository contains the implementation of a **Graph Laplacian Attention-Bas
 ---
 
 ## 📊 **Datasets**
-We evaluated the model on **five public** and **one private dataset**:
+We evaluated the model on **five public** and **one private (UConn Health) dataset**:
 
 | Dataset       | WSIs Count | Gleason Labels | Notes |
 |--------------|------------|---------------|---------------------|
