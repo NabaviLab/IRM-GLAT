@@ -10,11 +10,11 @@ This repository contains the implementation of a **Graph Laplacian Attention-Bas
 
 ---
 
-<img src="./model-glat.png" width="400px" align="right" />
+## 📂 **Project Structure**
 
 ---
 
-## 📂 **Project Structure**
+<img src="./model-glat.png" width="900px" align="right" />
 
 ---
 
